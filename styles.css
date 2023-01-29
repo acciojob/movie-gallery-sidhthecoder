@@ -1,2 +1,19 @@
+.first row img{
+	height:200;
+	width:200;
+}
 
+.container-fluid .image-first{
+	display:flex;
+    justify-content:space-between;
+}
+.container-fluid .image-second{
+	display:flex;
+}
+.container-fluid .image-three{
+	display:flex;
+}
+.container-fluid .image-fourth{
+	display:flex;
+}
 /* Your CSS Code here. */
