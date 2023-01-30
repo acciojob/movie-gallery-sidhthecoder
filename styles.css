@@ -5,15 +5,18 @@
 
 .container-fluid .image-first{
 	display:flex;
-    justify-content:space-between;
+    gap:10px;
 }
 .container-fluid .image-second{
 	display:flex;
+	gap:10px;
 }
 .container-fluid .image-three{
 	display:flex;
+	gap:10px;
 }
 .container-fluid .image-fourth{
 	display:flex;
+	gap:10px;
 }
 /* Your CSS Code here. */
