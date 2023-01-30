@@ -10,6 +10,12 @@
     margin-right: -15px;
     margin-left: -15px;
 }
+@media screen and (max-width: 768px) {
+  .col-sm-2 {
+    width: 100%;
+    text-align: center;
+  }
+}
 
 .col-sm-2 {
     position: relative;
